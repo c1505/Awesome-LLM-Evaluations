@@ -4,3 +4,6 @@ Name,Link,Short Description,Type
 ,,,Evaluation Dataset
 Open LLM Leaderboard,https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard,"Leaderboard from hugging face on MMLU, hellaswag, and ARC",Leaderboard
 LLM-Leaderboard, https://llm-leaderboard.streamlit.app/, Community leaderboard with data from multiple leaderboards and sources, Leaderboard
+MMLU-by-task, https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard, Leaderboard with MMLU data broken down by the 57 tasks. Also includes arc and hellaswag evaluation data.Can compare tasks on the site with a scatter plot. , Leaderboard
+MMLU-by-task dataset, https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard, Link below the table to download CSV of the MMLU by task data.  Also includes arc and hellaswag evaluation data, Dataset
+Hugging Face Evaluation Results, https://huggingface.co/datasets/open-llm-leaderboard/results, JSON data of evaluation results on open source LLM models on Hugging Face, Dataset
