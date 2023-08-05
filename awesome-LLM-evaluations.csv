@@ -3,3 +3,4 @@ Name,Link,Short Description,Type
 ,,,Evaluation Framework
 ,,,Evaluation Dataset
 Open LLM Leaderboard,https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard,"Leaderboard from hugging face on MMLU, hellaswag, and ARC",Leaderboard
+LLM-Leaderboard, https://llm-leaderboard.streamlit.app/, Community leaderboard with data from multiple leaderboards and sources, Leaderboard
