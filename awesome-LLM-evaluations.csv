@@ -1,0 +1,5 @@
+Name,Link,Short Description,Type
+,,,Paper
+,,,Evaluation Framework
+,,,Evaluation Dataset
+Open LLM Leaderboard,https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard,"Leaderboard from hugging face on MMLU, hellaswag, and ARC",Leaderboard
