@@ -7,3 +7,4 @@ MMLU-by-task dataset, https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Lea
 Hugging Face Evaluation Results, https://huggingface.co/datasets/open-llm-leaderboard/results, JSON data of evaluation results on open source LLM models on Hugging Face, Dataset
 ,,,Paper
 ,,,Framework
+agenttrace,https://github.com/luoyuctl/agenttrace,"Local-first TUI and CLI for evaluating AI coding agent sessions with cost, token, latency, and health regression gates.",Framework
